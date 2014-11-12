@@ -1,0 +1,7 @@
+Create a branch to work in when you work on something. 
+Update and commit frequently, not when a feature is complete.
+Commit and merge the branch when a feature is ready to be implemented in base.
+Stick to the style guide.
+Put your Trello task on "Verification" when done, add the verifier to the task and notify that person.
+Use of the standard library (and STL) is fully allowed and encouraged, however, if you can make something faster by doing it yourself, do so.
+To be continued...
