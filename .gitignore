@@ -1,34 +1,3 @@
-# Compiled Object files
-#*.slo
-#*.lo
-#*.o
-#*.obj
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Compiled Dynamic libraries please don't this is super annoying, ignore the bin folder instead
-#*.so
-#*.dylib
-#*.dll
-
-# Fortran module files
-#*.mod
-
-# Compiled Static libraries please don't this is super annoying, ignore the bin folder instead
-#*.lai
-#*.la
-#*.a
-#*.lib 
-
-# Executables
-#*.exe
-#*.out
-#*.app
-#*.sdf
-#*.opensdf
-
 #compiled files
 bin/*
 src/bin/*
