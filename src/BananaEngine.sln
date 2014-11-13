@@ -25,6 +25,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Scene", "Scene\Scene.vcxpro
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Debugging", "Debugging\Debugging.vcxproj", "{86B30B4C-E102-4217-8DD7-18CA8CF14BA1}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Resources", "Resources\Resources.vcxproj", "{B7ABA59E-A898-4F19-A34D-7D7E9823F9C2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -75,6 +77,10 @@ Global
 		{86B30B4C-E102-4217-8DD7-18CA8CF14BA1}.Debug|Win32.Build.0 = Debug|Win32
 		{86B30B4C-E102-4217-8DD7-18CA8CF14BA1}.Release|Win32.ActiveCfg = Release|Win32
 		{86B30B4C-E102-4217-8DD7-18CA8CF14BA1}.Release|Win32.Build.0 = Release|Win32
+		{B7ABA59E-A898-4F19-A34D-7D7E9823F9C2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B7ABA59E-A898-4F19-A34D-7D7E9823F9C2}.Debug|Win32.Build.0 = Debug|Win32
+		{B7ABA59E-A898-4F19-A34D-7D7E9823F9C2}.Release|Win32.ActiveCfg = Release|Win32
+		{B7ABA59E-A898-4F19-A34D-7D7E9823F9C2}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
