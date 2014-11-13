@@ -1,32 +1,38 @@
 # Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
+#*.slo
+#*.lo
+#*.o
+#*.obj
 
 # Precompiled Headers
 *.gch
 *.pch
 
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
+# Compiled Dynamic libraries please don't this is super annoying, ignore the bin folder instead
+#*.so
+#*.dylib
+#*.dll
 
 # Fortran module files
-*.mod
+#*.mod
 
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
+# Compiled Static libraries please don't this is super annoying, ignore the bin folder instead
+#*.lai
+#*.la
+#*.a
+#*.lib 
 
 # Executables
-*.exe
-*.out
-*.app
+#*.exe
+#*.out
+#*.app
+#*.sdf
+#*.opensdf
+
+#compiled files
+bin/*
+src/bin/*
+
+#Visual studio garbage
 *.sdf
 *.opensdf
-
-bin/*
